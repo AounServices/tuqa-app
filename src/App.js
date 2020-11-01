@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Welcome to Tuqa App
+          Learn React Welcome to Tuqa App 123123123123123912312736123
         </a>
       </header>
     </div>
